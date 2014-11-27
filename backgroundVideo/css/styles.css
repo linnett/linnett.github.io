@@ -1,0 +1,21 @@
+/**
+ * Custom Resets
+ */
+body,
+video,
+main {
+    margin:0;
+    padding:0;
+}
+/* Set a large height to see parallax effect */
+main {
+	display: block;
+	height: 2000px;
+}
+/* Prevent video jerky resize on load, reset defaults */
+video {
+	width: 100%;
+	height: 100%;
+	display: inline-block;
+  vertical-align: baseline;
+}
