@@ -37,7 +37,8 @@ video {
 .content-overlay p {
 	color: #fff;
 }
-.video-wrap::before {
+.text-overlay-example .video-wrap::before,
+.with-header-example .video-wrap::before {
 	content: '';
 	position: absolute;
 	height: 100%;
