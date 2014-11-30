@@ -13,7 +13,7 @@ p {
 /* Set a large height to see parallax effect */
 main {
 	display: block;
-	height: 1200px;
+	height: 2000px;
 }
 /* Prevent video jerky resize on load, reset defaults */
 video {
